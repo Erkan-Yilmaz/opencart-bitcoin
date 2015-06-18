@@ -25,3 +25,6 @@ INSTALL
 2. Install, configure and activate the BitCoin module  
 3. Enjoy!  
 
+DONATE  
+
+BTC: 1HdK2ppceaMvJSZqwEnQcpVaSe2xX3HYEa
