@@ -22,7 +22,7 @@ $_['text_success']          = 'Success: You have modified BitCoin details!';
 $_['text_edit']             = 'Edit BitCoin';
 $_['text_google_api']       = 'Google API';
 $_['text_bitcoin']          = '<a href="https://bitcoin.org" target="_blank"><img src="view/image/payment/bitcoin.png" alt="BitCoin" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_copyright']        = '<p><a href="https://github.com/shaman/opencart-bitcoin" target="_blank">BitCoin Payment for OpenCart</a></p><p>The part of Freedom. Made in Ukraine.</a></p><p>Donate BTC: <a href="bitcoin:1HdK2ppceaMvJSZqwEnQcpVaSe2xX3HYEa?label=BitCoin%20for%20OpenCart%20Donate">1HdK2ppceaMvJSZqwEnQcpVaSe2xX3HYEa</a></p>';
+$_['text_copyright']        = '<p><a href="https://github.com/shaman/opencart-bitcoin" target="_blank">BitCoin Payment for OpenCart</a></p><p>Thank you for using this module!</a></p><p>Donate BTC: <a href="bitcoin:1HdK2ppceaMvJSZqwEnQcpVaSe2xX3HYEa?label=BitCoin%20for%20OpenCart%20Donate">1HdK2ppceaMvJSZqwEnQcpVaSe2xX3HYEa</a></p>';
 
 
 // Entry
