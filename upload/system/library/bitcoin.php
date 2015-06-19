@@ -30,15 +30,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ====================
-
-This source file is updated to the GNU General Public License, Version 3
-It is also available through the world-wide-web at this URL:
-http://www.gnu.org/copyleft/gpl.html
-
-@category   OpenCart
-@package    Bitcoin Payment for OpenCart
-@copyright  Copyright (c) 2015 Eugene Lifescale (a.k.a. Shaman) by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
-@license    http://www.gnu.org/copyleft/gpl.html GNU General Public License, Version 3
 */
 
 final class BitCoin {
