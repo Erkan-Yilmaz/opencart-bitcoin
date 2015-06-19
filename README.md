@@ -7,10 +7,10 @@ FEATURES
 ✯  Real standalone Bitcoin module: receive your coins directly without any third-parties  
 ✯  Clean and crisp module, no file modifications  
 ✯  Compatible with every theme  
-✯  Automatic currency conversion when the BitCoin payment is selected  
+✯  Automatic currency conversion when the BitCoin payment was changed  
 ✯  Minimum Order Total amount settings  
 ✯  Custom Geo-Zone settings  
-✯  QR Code supports  
+✯  QR Code support  
 ✯  100% OpenSource under the GNU GPL v3 License  
 
 REQUIREMENTS  
