@@ -23,7 +23,6 @@ class ControllerPaymentBitCoin extends Controller {
 
         // Load dependencies
         $this->load->language('payment/bitcoin');
-        $this->load->language('payment/bitcoin');
         $this->load->library('bitcoin');
         $this->load->model('checkout/order');
 
