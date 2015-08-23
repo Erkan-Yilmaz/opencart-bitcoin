@@ -16,7 +16,7 @@ FEATURES
 REQUIREMENTS  
 
 1. bitcoind (this step requires the root access to install it)  
-2. 50Gb of free disk space (BTC transactions storage)  
+2. 50Gb of free disk space (os + block chain + website data)  
 3. cURL module  
 
 INSTALL  
